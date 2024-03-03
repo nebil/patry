@@ -1,0 +1,15 @@
+# Python-related
+.env
+.venv
+*.egg-info
+__pycache__
+.mypy_cache
+
+# Patry-related
+*.patry
+output.json
+
+# Miscellanea
+.DS_Store
+.vscode
+notes.md
